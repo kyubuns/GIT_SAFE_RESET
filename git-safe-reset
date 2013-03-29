@@ -1,0 +1,1 @@
+git commit -av -m "SAFE_RESET - `date`" && git reset --hard HEAD~1
