@@ -7,7 +7,7 @@ git reset --hard HEADした3秒後に「あ、普通にいるファイル消し�
 git-reset-hardをパスの通ったところに置くだけ。
 
 ・使い方
-git reset --hard HEADしたくなったら、代わりにgit safe-deleteする。
+git reset --hard HEADしたくなったら、代わりにgit safe-resetする。
 「あ、いるファイルだった。ｱｯ... ｱｯ...（コミュ障）」ってなったら
 git reflogから救出できる。
 嬉しい。
